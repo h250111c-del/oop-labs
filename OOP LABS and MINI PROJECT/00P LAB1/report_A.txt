@@ -1,0 +1,5 @@
+Band A report (3 learners)
+----------------------------------
+Rudo       roll=103  gpa=3.9
+Tariro     roll=101  gpa=3.8
+Ada        roll=105  gpa=3.5

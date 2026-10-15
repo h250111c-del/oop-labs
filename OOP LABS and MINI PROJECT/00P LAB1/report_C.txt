@@ -1,0 +1,4 @@
+Band C report (2 learners)
+----------------------------------
+Tendai     roll=106  gpa=2.9
+Kuda       roll=104  gpa=2.4

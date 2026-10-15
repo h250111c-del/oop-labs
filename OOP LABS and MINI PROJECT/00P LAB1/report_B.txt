@@ -1,0 +1,4 @@
+Band B report (2 learners)
+----------------------------------
+Farai      roll=102  gpa=3.1
+Nomsa      roll=107  gpa=3.0
